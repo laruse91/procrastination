@@ -1,7 +1,7 @@
-[![header](https://github.com/laruse91/procrastination/blob/main/img/title.png?raw=true)](https://laruse91-procrastination.web.app)  
+[![header](https://github.com/laruse91/procrastination/blob/main/img/title.png?raw=true)](https://laruse-91-96ae5.web.app)  
 
 You can find an ideas for procrastination by the link below:  
-[procrastination ideas](https://laruse91-procrastination.web.app)  
+[procrastination ideas](https://laruse-91-96ae5.web.app)  
 
 ## Procrastination Ideas
 
